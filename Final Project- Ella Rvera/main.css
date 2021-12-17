@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 70rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.roww {
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+
+}
+.carousel-slide{
+  width: 100%;
+  height: 100%;
+}
+
+.age{
+  height: 300px;
+  width: 150px;
+}
+.card {
+  
+}
+
+.header {
+  background-color: darkgray;
+  font-size: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+}
+
+.source { 
+    font-size: 12px;
+
+}
+
+img {
+  width: 70%;
+  display:  block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.caption {
+  width: 70%;
+  font-size: 14px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  width: 70%;
+  border: 3px solid orange;
+}
+  
+
+h1 {
+  font-style: arial;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+}
+.h2 {
+  width: 40%;
+  font-size: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-size: 14px;
+}
+
+.otherimg {
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.carousel-slide{
+  height: .2%;
+  width: 50%;
+}
+.carousel-inner{
+  height: 10%;
+}
